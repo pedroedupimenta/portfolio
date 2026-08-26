@@ -77,7 +77,7 @@ O sistema será projetado para funcionar em diferentes tamanhos de tela, utiliza
 1. Clone este repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/pedroedupimenta/portfolio.git
 ```
 
 2. Entre na pasta:

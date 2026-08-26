@@ -99,11 +99,10 @@ A definir.
 
 **Pedro Eduardo Pimenta**
 
-Estudante de Tecnologia da Informação.
+Estudante de Engenharia de Software.
 
-* GitHub: A inserir
-* LinkedIn: A inserir
-* E-mail: A inserir
+* Telefone: (31)999089599
+* E-mail: pedroedupimenta@gmail.com
 
 ## 📚 Desenvolvimento
 

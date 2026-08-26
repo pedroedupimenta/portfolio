@@ -103,7 +103,3 @@ Estudante de Engenharia de Software.
 
 * Telefone: (31)999089599
 * E-mail: pedroedupimenta@gmail.com
-
-## 📚 Desenvolvimento
-
-Projeto desenvolvido como atividade acadêmica da disciplina de desenvolvimento de sistemas, seguindo as etapas definidas para a **Sprint 03**.
